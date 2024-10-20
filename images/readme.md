@@ -1,1 +1,2 @@
-# Images
+# Images Directory
+For storing images!
